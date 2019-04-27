@@ -6,4 +6,7 @@ from constants import supported_services, \
                       discovery_mechanisms, \
                       job_input_classes, \
                       job_output_classes, \
-                      protocols
+                      protocols, \
+                      event_types, \
+                      conditional_operations, \
+                      processor_usage_strings
